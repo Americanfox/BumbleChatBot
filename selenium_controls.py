@@ -5,9 +5,9 @@ from chat_bot import ChatBot
 import time
 
 
-CHROME_DRIVE = "D:\dev-tools\chromedriver.exe"
-USER_DATA = "user-data-dir=D:\\dev-tools\\bumbprof"
-URL = "https://onlyfans.com/"
+CHROME_DRIVE = # Insert Chrome Drive
+USER_DATA = # Insert User Data
+URL = # Insert URL
 
 class SeleniumControls:
 
