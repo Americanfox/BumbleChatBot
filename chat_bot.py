@@ -1,11 +1,10 @@
 from google.cloud import dialogflow
 
 
-# bumble-response-lnwq
 
-LANGUAGE = "en"
-PROJECT_ID = "chatting-bot-athena-mtgp"
-SESSION_ID = "123"
+LANGUAGE = # Insert Language
+PROJECT_ID = # Insert Project ID
+SESSION_ID = # Insert Session ID
 
 class ChatBot:
 
